@@ -45,27 +45,24 @@ const Education = () => {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
-            type="Bachelor Of Science In Computer Science"
-            time="2016-2020"
-            place="Massachusetts Institute Of Technology (MIT)"
-            info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
-            Intelligence."
+            type="Bachelor in Computer Application (BCA)"
+            time="Present"
+            place="Chuchepati, Kathmandu 44600"
+            info="Aadim National College - AADIM COLLEGE offers the best programs for undergraduate level, 4 years of 8 semesters BCA (Bachelor of Computer Application), BBS (Bachelor of Business Studies) and BSW (Bachelors of Social Work) degrees affiliated to TRIBHUVAN UNIVERSITY. "
           />
        
           <Details
-            type="Bachelor Of Science In Computer Science"
-            time="2016-2020"
-            place="Massachusetts Institute Of Technology (MIT)"
-            info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
-            Intelligence."
+            type="Intermediate"
+            time="2017-2019"
+            place="Chabahil, Kathmandu"
+            info="Pushpalal Memorial College - PLMC is affiliated to Tribhuvan University (TU) and National Examination Board (NEB). I had read class 11 & 12 on there. "
           />
        
           <Details
-            type="Bachelor Of Science In Computer Science"
-            time="2016-2020"
-            place="Massachusetts Institute Of Technology (MIT)"
-            info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
-            Intelligence."
+            type="Secondary Education Examination"
+            time="2005-2017"
+            place="Kapan, Budhanilkantha"
+            info="Pioneer Public School - Pioneer Public School later become the kathmandu Vidhyalaya, I studied from class one to ten in that school"
           />
        
         </ul>

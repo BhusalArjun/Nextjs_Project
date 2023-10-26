@@ -2,7 +2,7 @@ import AnimatedText from "@/component/AnimatedText";
 import Layout from "@/component/Layout";
 import Head from "next/head";
 import React, { useEffect } from "react";
-import profilePic from "../../public/images/profile/developer-pic-2.jpg";
+import profilePic from "../../public/images/profile/bhusal_about.png";
 import Image from "next/image";
 import { useRef } from "react";
 import { useInView, useMotionValue, useSpring } from "framer-motion";
@@ -56,9 +56,9 @@ const about = () => {
               </h2>
               <p className="font-medium">
                 {" "}
-                Hi, I'm CodeBucks, a web developer and UI/UX designer with a
+                Hi, I'm Bhusal Arjun, a web developer and UI/UX designer with a
                 passion for creating beautiful, functional, and user-centered
-                digital experiences. With 4 years of experience in the field. I
+                digital experiences. With 1 years of experience in the field. I
                 am always looking for new and innovative ways to bring my
                 clients' visions to life.
               </p>
@@ -93,7 +93,7 @@ const about = () => {
               />
             </div>
             <div className="col-span-2 flex flex-col  items-end justify-between xl:col-span-8 xl:flex-row xl:items-center md:order-3">
-              <div className="flex flex-col items-end justify-center xl:items-center">
+              {/* <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
                   <AnimatedNumbers value={50} />+
                 </span>
@@ -103,7 +103,7 @@ const about = () => {
                 >
                   Satisfied clients
                 </h2>
-              </div>
+              </div> */}
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
                   <AnimatedNumbers value={10} />+
