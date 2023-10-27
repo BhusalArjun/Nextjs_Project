@@ -15,10 +15,10 @@ module.exports = {
         mont: ["var(--font-mont)", ...fontFamily.sans],
       },
       colors:{
-        dark: "#1b1b1b",
+        dark: "#1b1b1b",//1b1b1b F86400
         light: "#f5f5f5",
-        primary: "#B63E96", // 240,86,199
-        primaryDark: "#58E6D9", // 80,230,217
+        primary: "#F79500", // 240,86,199  B63E96
+        primaryDark: "#58E6D9", // 80,230,217   58E6D9 0E65A3
       },
       animation: {
         'spin-slow': 'spin 5s linear infinite',
